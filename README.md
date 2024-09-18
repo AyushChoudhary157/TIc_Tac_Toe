@@ -22,3 +22,8 @@ This code is for a **Tic-Tac-Toe** game using JavaScript, where players X and O 
 
 Players can reset or start a new game using the provided buttons, which clears the board and restarts the turn sequence.
 
+![image](https://github.com/user-attachments/assets/e64a656b-c87c-4dc8-bd4c-2f7b5893b58d)
+![image](https://github.com/user-attachments/assets/9e05a70c-62bc-4f8e-bcd3-5ae6b94040cb)
+![image](https://github.com/user-attachments/assets/7d2fe877-ec59-411a-acc2-0af6cf86eb61)
+
+
