@@ -2,6 +2,7 @@
 
 This code is for a **Tic-Tac-Toe** game using JavaScript, where players X and O take turns marking boxes in a 3x3 grid. It features a simple interface with buttons to reset the game or start a new game, along with functionality to check for a winner after each move.
 
+
 ### Key Components:
 - **HTML Elements:**
   - `boxes`: Represents the 9 cells in the Tic-Tac-Toe grid.
